@@ -6,12 +6,12 @@ const Homepage = () => {
   return (
     <div className="bg-gray-100 font-sans text-gray-800">
       {/* Header Section */}
-      <header className="bg-white py-6">
+      <header className="bg-white shadow-md sticky top-0 z-50 sm:py-6 py-3">
         <div className="container mx-auto flex justify-between items-center px-6">
           <div className="logo flex items-center gap-2">
-            <Image src={Icon} className="h-10 w-auto" alt="club logo" />
+            <Image src={Icon} className="h-8 sm:h-10 w-auto" alt="club logo" />
           </div>
-          <nav className="space-x-6 font-semibold">
+          <nav className="space-x-6 hidden sm:block font-semibold">
             <a href="#" className="hover:text-red-500">
               Home
             </a>
