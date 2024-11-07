@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Gazi Maruf Rahman",
+    "position": "President",
+    "semester": "7th",
+    "image": "Gazi Maruf Rahman-01.png"
+  },
+  {
+    "name": "Hedaitul Sani",
+    "position": "Vice President",
+    "semester": "7th",
+    "image": "Hedaitul Sani-01.png"
+  },
+  {
+    "name": "Md Limon Faraji",
+    "position": "General Secretary",
+    "semester": "6th",
+    "image": "Md Limon Faraji-01.png"
+  },
+  {
+    "name": "Moonsun Al Nahian Snigdho",
+    "position": "Joint Secretary",
+    "semester": "6th",
+    "image": "Moonsun Al Nahian Snigdho-01.png"
+  },
+  {
+    "name": "Md Rubayet Ahmed",
+    "position": "Joint Secretary",
+    "semester": "6th",
+    "image": "Md Rubayet Ahmed-01.png"
+  },
+  {
+    "name": "M. A. Alim",
+    "position": "Joint Secretary",
+    "semester": "5th",
+    "image": "M. A. Alim-01.png"
+  },
+  {
+    "name": "Hasiba Akter",
+    "position": "Treasurer",
+    "semester": "5th",
+    "image": "Hasiba Akter-01.png"
+  },
+  {
+    "name": "Sagor Sharif",
+    "position": "R&D Secretary",
+    "semester": "4th",
+    "image": "Sagor Sharif-01.png"
+  },
+  {
+    "name": "Ahsan Habib",
+    "position": "R&D Secretary",
+    "semester": "4th",
+    "image": "Ahsan Habib-01.png"
+  },
+  {
+    "name": "Sayeatun Nesa Arpa",
+    "position": "Creative Designer",
+    "semester": "5th",
+    "image": "Sayeatun Nesa Arpa-01.png"
+  },
+  {
+    "name": "SN Shoikot",
+    "position": "Creative Designer",
+    "semester": "5th",
+    "image": "SN Shoikot-01.png"
+  },
+  {
+    "name": "Nabil Bin Mahabub",
+    "position": "Public Relations Secretary",
+    "semester": "5th",
+    "image": "Nabil Bin Mahabub-01.png"
+  },
+  {
+    "name": "Maria Hossain",
+    "position": "Public Relations Secretary",
+    "semester": "5th",
+    "image": "Maria Hossain-01.png"
+  },
+  {
+    "name": "Kriti Sundar Roy",
+    "position": "Event Organizer",
+    "semester": "5th",
+    "image": "Kriti Sundar Roy-01.png"
+  },
+  {
+    "name": "Md. Emon Howlader",
+    "position": "Event Organizer",
+    "semester": "3rd",
+    "image": "Md. Emon Howlader-01.png"
+  },
+  {
+    "name": "Masrafi Jaman",
+    "position": "Event Organizer",
+    "semester": "3rd",
+    "image": "Masrafi Jaman-01.png"
+  },
+  {
+    "name": "Tousif Rahaman Mihir",
+    "position": "Event Organizer",
+    "semester": "2nd",
+    "image": "Tousif Rahaman Mihir-01.png"
+  }
+]
